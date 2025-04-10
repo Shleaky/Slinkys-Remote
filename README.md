@@ -1,4 +1,4 @@
-RP2040-Zero IR Remote Controller
+Slinkys IR Remote Controller
 This repository contains the Arduino sketch for a customizable IR remote control designed for Samsung TVs, using the RP2040-Zero microcontroller. 
 This remote is capable of sending pre-defined IR codes displayed on an OLED screen, allowing for a simple and effective way to control various functions of your TV without multiple physical buttons. 
 The project also includes plans for future expansion to record IR codes from other remotes.
